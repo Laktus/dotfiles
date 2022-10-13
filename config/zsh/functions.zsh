@@ -44,7 +44,7 @@ function open_arg_in_vs_code {
 
 function java_environment_change() {
   export JAVA_HOME=$(/usr/libexec/java_home -v $argv)
-  export PATH=$JAVA_HOME/bin:$PATH
+  export PATH=$(echo $PATH | sed "s%/Library/Java.*\.jdk[^:]*:%$JAVA_HOME:%")
   launchctl setenv JAVA_HOME $JAVA_HOME
   java -version
 }

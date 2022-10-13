@@ -95,7 +95,7 @@ brew install --cask font-hack-nerd-font || error "failed installing fonts"
 
 _info "Installing dev tool casks..."
 _DEV_CASKS=(
-  adoptopenjdk/openjdk/adoptopenjdk8
+  aUIdoptopenjdk/openjdk/adoptopenjdk8
   adoptopenjdk/openjdk/adoptopenjdk11
   chromedriver
   insomnia

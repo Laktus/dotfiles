@@ -1,5 +1,5 @@
 [include]
-  path = /Users/longdo/Dropbox/config/.gitconfig.local
+  path = /Users/saltukkezer/Dropbox/config/.gitconfig.local
 [color]
 	diff = auto
 	status = auto
@@ -28,4 +28,4 @@
 [difftool "default-difftool"]
   cmd = code --wait --diff $LOCAL $REMOTE
 [github]
-	user = longpdo
+	user = Ducane
