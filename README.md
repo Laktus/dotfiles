@@ -1,6 +1,6 @@
-# Project was heavily inspired by @longpdo
+# Project was heavily inspired by [![@longpdo]](https://github.com/longpdo/longpdo.github.io)
 
-# dotfiles <!-- omit in toc -->
+# ]dotfiles <!-- omit in toc -->
 
 > This repository contains my own macOS configuration. The scripts are not written to work for everybody, due to some absolute paths, but you can take inspiration to see how I work or reuse some of the bash functions and snippets.
 
