@@ -1,4 +1,4 @@
-# Project was heavily inspired by [@longpdo](https://github.com/longpdo/longpdo.github.io)
+# Project was heavily inspired by [@longpdo](https://github.com/longpdo)
 
 # dotfiles <!-- omit in toc -->
 
