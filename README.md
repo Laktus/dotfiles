@@ -1,3 +1,5 @@
+# Project was heavily inspired by @longpdo
+
 # dotfiles <!-- omit in toc -->
 
 > This repository contains my own macOS configuration. The scripts are not written to work for everybody, due to some absolute paths, but you can take inspiration to see how I work or reuse some of the bash functions and snippets.
